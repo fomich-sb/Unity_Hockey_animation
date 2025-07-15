@@ -14,3 +14,5 @@
   - NavMesh (навигация ИИ)
   - Unity Physics (Rigidbody, коллизии)
   - Система событий (event/delegate) для взаимодействия между объектами
+
+![pp](https://github.com/user-attachments/assets/8a56ed31-2561-4b09-a433-52a673c0a0b4)
